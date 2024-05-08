@@ -11,7 +11,7 @@ Get the complete schedule for the next F1 race week at the click of a button.
 
 - Race Countdown: Stay informed about the next Formula 1 race on your calendar.
 - Precise Timing: Get the date and exact time for the upcoming race.
-- Full Schedule: Get a detailed timeline of all available events leading up to the race, which could include Free Practice 1, Qualifying, Sprint Race, and more.
+- Full Schedule: Get a detailed timeline of all available events leading up to the race, which could include Free Practices, Qualifying, Sprint Race, and more.
 
 ## Installation
 
