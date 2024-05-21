@@ -17,7 +17,7 @@ Get the complete schedule for the next F1 race week at the click of a button.
 
 1. Clone or download this repository.
 2. Open a terminal window inside the cloned/downloaded folder
-3. run the command ```npm run build```
+3. Run the command ```npm run build```
 4. Open Chrome and go to `chrome://extensions/`.
 5. Enable "Developer mode" (toggle switch).
 6. Click on "Load unpacked" and select the extension's directory (the newly created "build" folder, which should be inside the cloned/downloaded folder).
